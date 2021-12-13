@@ -32,7 +32,7 @@
     box-shadow: 0 8px 8px -4px lightblue;
 
     /* animation fastidiosa */
-    animation: spinALittleBit 2s infinite;
+    /* animation: spinALittleBit 2s infinite; */
     
 }
 @keyframes spinALittleBit {
@@ -61,7 +61,7 @@
     color:black;
 
     /* animation fastidiosa */
-    animation: spin 2s linear infinite;
+    /* animation: spin 2s linear infinite; */
 }
 @keyframes spin {
         0% {
